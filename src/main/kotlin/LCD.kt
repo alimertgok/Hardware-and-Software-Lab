@@ -21,7 +21,7 @@ object LCD { // Writes to the LCD using the 4-bit interface.
 
     // Writes a command/data nibble to the LCD in series
     private fun writeNibbleSerial(rs: Boolean, data: Int) {
-        if()
+
     }
 
     // Writes a command/data nibble to the LCD
