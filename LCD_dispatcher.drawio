@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T15:03:24.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rCVb2Y3NzKmS1VnaD3Ol" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T15:05:54.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="xIKwLnCy9pF-mxjrhfwm" version="21.3.4" type="github">
   <diagram name="Sayfa -1" id="YCGy1GXBcXYwDkYGlU13">
     <mxGraphModel dx="1290" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="HxKFFCl7oyXoMDUBGRLK-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HxKFFCl7oyXoMDUBGRLK-6" target="HxKFFCl7oyXoMDUBGRLK-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HxKFFCl7oyXoMDUBGRLK-6" value="Wrl&lt;br&gt;D out =&amp;gt; D in" style="whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="HxKFFCl7oyXoMDUBGRLK-6" value="Wrl&lt;br&gt;D out &amp;lt;= D in" style="whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="170" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HxKFFCl7oyXoMDUBGRLK-8" value="STATE&amp;nbsp;DELIVERING" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
